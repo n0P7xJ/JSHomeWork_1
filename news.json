@@ -1,0 +1,102 @@
+﻿[
+  {
+    "title": "Новина 1",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 1..."
+  },
+  {
+    "title": "Новина 2",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 2..."
+  },
+  {
+    "title": "Новина 3",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 3..."
+  },
+  {
+    "title": "Новина 4",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 4..."
+  },
+  {
+    "title": "Новина 5",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 5..."
+  },
+  {
+    "title": "Новина 6",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 6..."
+  },
+  {
+    "title": "Новина 7",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 7..."
+  },
+  {
+    "title": "Новина 8",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 8..."
+  },
+  {
+    "title": "Новина 9",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 9..."
+  },
+  {
+    "title": "Новина 10",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 10..."
+  },
+  {
+    "title": "Новина 11",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 11..."
+  },
+  {
+    "title": "Новина 12",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 12..."
+  },
+  {
+    "title": "Новина 13",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 13..."
+  },
+  {
+    "title": "Новина 14",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 14..."
+  },
+  {
+    "title": "Новина 15",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 15..."
+  },
+  {
+    "title": "Новина 16",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 16..."
+  },
+  {
+    "title": "Новина 17",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 17..."
+  },
+  {
+    "title": "Новина 18",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 18..."
+  },
+  {
+    "title": "Новина 19",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 19..."
+  },
+  {
+    "title": "Новина 20",
+    "image": "../Images/Test.jpg",
+    "description": "Опис новини 20..."
+  }
+]
